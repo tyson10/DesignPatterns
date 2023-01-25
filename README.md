@@ -13,6 +13,7 @@
 - [Decorator](StructuralPatterns/Decorator.md)
 - [Facade](StructuralPatterns/Facade.md)
 - [Flyweight](StructuralPatterns/Flyweight.md)
+- [Proxy](StructuralPatterns/Proxy.md)
 
 ## 참고자료
 [refactoring.guru](https://refactoring.guru/ko/design-patterns/swift)  
