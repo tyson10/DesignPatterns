@@ -76,3 +76,7 @@ let thirdROKArmy = MilitaryGroup(unitName: "3군 사령부", group: [navy1, army
 
 thirdROKArmy.attack()
 ```
+## 단점
+
+- 트리 구조가 아니면 사용할 수 없음.
+- 객체간 관계가 복잡해질 수 있음.
