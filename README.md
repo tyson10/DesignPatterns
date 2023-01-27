@@ -15,6 +15,7 @@
 - [Flyweight](StructuralPatterns/Flyweight.md)
 - [Proxy](StructuralPatterns/Proxy.md)
 - [Composite](StructuralPatterns/Composite.md)
+- [Adapter](StructuralPatterns/Adapter.md)
 
 ## 참고자료
 [refactoring.guru](https://refactoring.guru/ko/design-patterns/swift)  
