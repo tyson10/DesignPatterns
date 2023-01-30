@@ -17,6 +17,8 @@
 - [Composite](StructuralPatterns/Composite.md)
 - [Adapter](StructuralPatterns/Adapter.md)
 
+## 행동패턴
+
 ## 참고자료
 [refactoring.guru](https://refactoring.guru/ko/design-patterns/swift)  
 [야곰닷넷 - Design Pattern in Swift](https://yagom.net/courses/design-pattern-in-swift/)  
