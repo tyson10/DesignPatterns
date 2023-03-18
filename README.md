@@ -19,6 +19,7 @@
 
 ## 행동패턴
 - [Interpreter](BehavioralPatterns/Interpreter.md)
+- [Template Method](BehavioralPatterns/TemplateMethod.md)
 
 ## 참고자료
 [refactoring.guru](https://refactoring.guru/ko/design-patterns/swift)  
