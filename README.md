@@ -20,6 +20,7 @@
 ## 행동패턴
 - [Interpreter](BehavioralPatterns/Interpreter.md)
 - [Template Method](BehavioralPatterns/TemplateMethod.md)
+- [Chain of Resposibility](BehavioralPatterns/ChainOfResponsibility.md)
 
 ## 참고자료
 [refactoring.guru](https://refactoring.guru/ko/design-patterns/swift)  
