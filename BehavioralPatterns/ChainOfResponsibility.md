@@ -11,7 +11,7 @@
 
 ![Untitled](Images/chain_of_resposibility_1.png)
 
-1. 핸들러가 요청을 받으면 처리가 가능한 핸들러를 만날때까지 전달하며, 처리가 가능한 핸들러에서 처리가 되면 더 이상 전달하지 않음.
+2. 핸들러가 요청을 받으면 처리가 가능한 핸들러를 만날때까지 전달하며, 처리가 가능한 핸들러에서 처리가 되면 더 이상 전달하지 않음.
 (ex. GUI 요소들이 트리 구조로 구성되어있는 상태에서 user interaction 처리시.)
 
 ![Untitled](Images/chain_of_resposibility_2.png)
